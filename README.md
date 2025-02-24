@@ -7,6 +7,14 @@
 
 # Élan Flower
 A customized theme for HyDE Hyprland
+| Light | Dark |
+| ----------------------------------- | ----------------------------------- |
+| ![t1](https://github.com/Traynack/HyDE-Elan-Light/blob/main/screenshots/screenshot1.png) | ![t1](https://github.com/Traynack/HyDE-Elan-Dark/blob/main/screenshots/screenshot1.png) |
+| ![t2](https://github.com/Traynack/HyDE-Elan-Light/blob/main/screenshots/screenshot2.png) | ![t2](https://github.com/Traynack/HyDE-Elan-Dark/blob/main/screenshots/screenshot2.png) |
+| ![t3](https://github.com/Traynack/HyDE-Elan-Light/blob/main/screenshots/screenshot3.png) | ![t3](https://github.com/Traynack/HyDE-Elan-Dark/blob/main/screenshots/screenshot3.png) |
+| ![t4](https://github.com/Traynack/HyDE-Elan-Light/blob/main/screenshots/screenshot4.png) | ![t4](https://github.com/Traynack/HyDE-Elan-Dark/blob/main/screenshots/screenshot4.png) |
+
+
 
 This is a theme that I designed for myself for use with multiple wallpapers of varying colors, so its installation/removal is a little unorthadox, and conflicts with HyDE's default Wallbash generation scripts, meaning it'll probably break after HyDE updates. With that said though, I'm sure that there's a much better way of doing what is being done here, and if anyone knows of a better way of doing this, please let me know.
 
@@ -90,6 +98,11 @@ and uncomment
 #navigator-toolbox { font-family:MonofurNerdFont !important }
 ```
 6. Save the new file and restart Firefox.
+
+## Discord theme change (currently works on WebCord, Armcord, and Vencord/Vesktop)
+* Enable Custom CSS in the Discord client of your choice.
+
+Wallbash (if I'm reading [this](https://github.com/HyDE-Project/HyDE/blob/master/Configs/.config/hyde/wallbash/scripts/discord.sh) correctly) should automatically change the theme to match your wallpaper. I have heard on the HyDE project Discord server that currently this feature currently doesn't work on WebCord, however it's been reported and the developers are working on the `discord.dcol` file.
 
 # Resources used
 * [The HyDE Project](https://github.com/HyDE-Project)
