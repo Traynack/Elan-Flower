@@ -107,7 +107,7 @@ and uncomment
 
 Wallbash (if I'm reading [this](https://github.com/HyDE-Project/HyDE/blob/master/Configs/.config/hyde/wallbash/scripts/discord.sh) correctly) should automatically change the theme to match your wallpaper. I have heard on the HyDE project Discord server that currently this feature currently doesn't work on WebCord, however it's been reported and the developers are working on the `discord.dcol` file.
 
-# Resources used
+# Resources and Assets used
 * [The HyDE Project](https://github.com/HyDE-Project)
 * Default Élan Flower Light wallpaper: Rain and Mila by [papaya](https://bsky.app/profile/papaira.bsky.social/post/3lirhjvisu22u)
 * Default Élan Flower Dark wallpaper: Rainy Drive CG from [Twofold](https://store.steampowered.com/app/1749770/Twofold/)
