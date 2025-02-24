@@ -19,7 +19,7 @@ A customized theme for HyDE Hyprland
 
 
 
-This is a theme that I designed for myself for use with multiple wallpapers of varying colors, so its installation/removal is a little unorthadox, and conflicts with HyDE's default Wallbash generation scripts, meaning it'll probably break after HyDE updates. With that said though, I'm sure that there's a much better way of doing what is being done here, and if anyone knows of a better way of doing this, please let me know.
+This is a theme that I designed for myself for use with multiple wallpapers (a **BYOW** - **B**ring **Y**our **O**wn **W**allpaper theme) of varying colors, so its installation/removal is a little unorthadox, and conflicts with HyDE's default Wallbash generation scripts, meaning it'll probably break after HyDE updates. With that said though, I'm sure that there's a much better way of doing what is being done here, and if anyone knows of a better way of doing this, please let me know.
 
 # Installation
 1. Install [HyDE](https://hydeproject.pages.dev/guides/cli/#installation) using the CLI tool. (You can do it without Hyde-cli and install HyDE manually, but you'll need to also manually add the themes below instead of using Hyde-cli.)
