@@ -5,6 +5,9 @@
 </div>
 <div align = center><img src="https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/hyde_banner.png"><br><br></div>
 
+> [!IMPORTANT]
+> This is not a standalone theme, needs [HyDE](https://github.com/HyDE-Project/HyDE) installed...
+
 # Élan Flower
 A customized theme for HyDE Hyprland
 | [Light](https://github.com/Traynack/HyDE-Elan-Light) | [Dark](https://github.com/Traynack/HyDE-Elan-Dark) |
