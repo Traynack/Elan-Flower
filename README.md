@@ -7,7 +7,7 @@
 
 # Élan Flower
 A customized theme for HyDE Hyprland
-| Light | Dark |
+| [Light](https://github.com/Traynack/HyDE-Elan-Light) | [Dark](https://github.com/Traynack/HyDE-Elan-Dark) |
 | ----------------------------------- | ----------------------------------- |
 | ![t1](https://github.com/Traynack/HyDE-Elan-Light/blob/main/screenshots/screenshot1.png) | ![t1](https://github.com/Traynack/HyDE-Elan-Dark/blob/main/screenshots/screenshot1.png) |
 | ![t2](https://github.com/Traynack/HyDE-Elan-Light/blob/main/screenshots/screenshot2.png) | ![t2](https://github.com/Traynack/HyDE-Elan-Dark/blob/main/screenshots/screenshot2.png) |
