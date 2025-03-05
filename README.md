@@ -22,8 +22,8 @@ A customized theme for HyDE Hyprland
 This is a theme that I designed for myself for use with multiple wallpapers (a **BYOW** - **B**ring **Y**our **O**wn **W**allpaper theme) of varying colors, so its installation/removal is a little unorthadox, and conflicts with HyDE's default Wallbash generation scripts, meaning it'll probably break after HyDE updates. With that said though, I'm sure that there's a much better way of doing what is being done here, and if anyone knows of a better way of doing this, please let me know.
 
 # Installation
-1. Install [HyDE](https://hydeproject.pages.dev/guides/cli/#installation) using the CLI tool. (You can do it without Hyde-cli and install HyDE manually, but you'll need to also manually add the themes below instead of using Hyde-cli.)
-2. Run the following two commands to install both the light and dark themes into your HyDE installation. (Or just one, depending on your preference)
+1. ~~Install [HyDE](https://hydeproject.pages.dev/guides/cli/#installation) using the CLI tool. (You can do it without Hyde-cli and install HyDE manually, but you'll need to also manually add the themes below instead of using Hyde-cli.)~~ Hyde-cli is currently in the process of being updated and re-written to support HyDE instead of the deprecated Hyprdots. Install HyDE [manually](https://hydeproject.pages.dev/getting-started/installation/) for now :D
+2. ~~Run the following two commands to install both the light and dark themes into your HyDE installation. (Or just one, depending on your preference)~~
 
    ```sh
    Hyde theme import "Élan Flower Light" https://github.com/Traynack/HyDE-Elan-Light
@@ -32,6 +32,16 @@ This is a theme that I designed for myself for use with multiple wallpapers (a *
    ```sh
    Hyde theme import "Élan Flower Dark" https://github.com/Traynack/HyDE-Elan-Dark
    ```
+   **THE ABOVE WILL NOT WORK WITHOUT HYDE-CLI!!!** Use the `themepatcher.sh` script found inside of your `HyDe/Scripts` folder (the same folder where `install.sh` was located) to patch the themes instead.
+
+   ```sh
+   themepatcher.sh "Élan Flower Light" https://github.com/Traynack/HyDE-Elan-Light
+   ```
+
+   ```sh
+   themepatcher.sh "Élan Flower Dark" https://github.com/Traynack/HyDE-Elan-Dark
+   ```
+   
 3. Use the keybinds `SUPER + SHIFT + T` to change the theme to one of the two freshly installed themes, `SUPER + SHIFT + R` to set Wallbash mode to `auto`, and `SUPER + ALT + UP/DOWN` to change the waybar style to your liking.
 
 > [!IMPORTANT]
